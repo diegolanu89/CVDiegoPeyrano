@@ -1,0 +1,174 @@
+{
+  "header": {
+    "name": "Diego Peyrano",
+    "role": "Software Analyst"
+  },
+
+  "sections": {
+    "summary": "Summary",
+    "experience": "Experience",
+    "skills": "Skills",
+    "education": "Education",
+    "contact": "Contact"
+  },
+
+  "summary": {
+    "p1": "I am a Software Analyst with experience in developing web and mobile applications, with a strong focus on security, authentication, and biometric-based solutions.",
+    "p2": "I have a solid technical background and hands-on experience with multiple programming languages and technologies, which allows me to quickly adapt to new environments, frameworks, and programming languages.",
+    "p3": "I work with an approach oriented toward best development practices, modular architecture, system scalability, continuous integration (CI/CD), and user experience.",
+    "p4": "Through my academic and professional background, I am able to design, implement, and maintain solutions using different programming languages and paradigms, efficiently incorporating new technologies and ecosystems."
+  },
+
+  "experience": {
+    "items": [
+      {
+        "title": "IT TECHNICIAN",
+        "company": "Service Sur",
+        "location": "Buenos Aires, Argentina",
+        "period": "2009 - 2017",
+        "bullets": [
+          "Maintenance and repair of computer equipment.",
+          "Hardware and software troubleshooting.",
+          "Technical support for individual and corporate clients."
+        ]
+      },
+      {
+        "title": "DEVELOPER AND SALES",
+        "company": "Accesorios Sur (Automotive)",
+        "location": "Buenos Aires, Argentina",
+        "period": "March 2011 - June 2017",
+        "bullets": [
+          "Development of a website for automotive accessories sales.",
+          "Sale of lighting equipment and spare parts.",
+          "Customer portfolio management.",
+          "Technical support and commercial management."
+        ]
+      },
+      {
+        "title": "SOFTWARE DEVELOPER",
+        "company": "CETEK - Faculty of Engineering (UBA)",
+        "location": "Buenos Aires, Argentina",
+        "period": "July 2017 - September 2019",
+        "bullets": [
+          "Development of systems related to the educational environment.",
+          "Implementation of Learning Analytics tools.",
+          "Academic management application development.",
+          "Work with databases and educational data processing.",
+          "Participation in projects using TensorFlow and data-driven solutions."
+        ]
+      },
+      {
+        "title": "FULLSTACK DEVELOPER / ANALYST / TECH LEAD",
+        "company": "NCR",
+        "location": "Buenos Aires, Argentina",
+        "period": "September 2019 - Present",
+        "bullets": [
+          "FullStack development and systems analysis in corporate projects.",
+          "Current role as Technical Lead and Consultant.",
+          "Use of technologies such as JavaScript, TypeScript, React, Angular, RxJS, Python, Django, Node.js and NestJS.",
+          "Development using both internal company frameworks and self-developed frameworks.",
+          "Implementation of automated testing with Cypress.",
+          "Backend and storage systems development.",
+          "Integration with hardware and ATM systems.",
+          "Application of modern architectures such as Hexagonal Architecture and SOLID principles."
+        ]
+      }
+    ]
+  },
+
+  "skills": {
+    "languagesTitle": "Languages",
+    "paradigmsTitle": "Paradigms",
+    "patternsTitle": "Patterns and Principles",
+    "toolsTitle": "Tools and Technologies",
+    "dataTitle": "Data and Analytics",
+
+    "languages": "C, C++, Java, Smalltalk, Python, JavaScript, TypeScript, .Net, Go",
+    "paradigms": "Structured programming, Object-Oriented Programming (OOP), Functional programming, Hexagonal architecture, MVC",
+    "patterns": "Design patterns, SOLID principles, prototyping, software engineering best practices",
+    "tools": "React, Angular, Node.js, NestJS, RxJS, Firebase, Kubernetes, Docker, PostgreSQL, MongoDB, Azure, Git, Linux, Jira, Trello, Agile methodologies (Scrum, Kanban, XP)",
+    "data": "DataFrames, data visualization, Big Data, Machine Learning, Web Scraping"
+  },
+
+  "education": {
+    "items": [
+      {
+        "year": "2007",
+        "title": "Bioengineering",
+        "org": "Universidad Nacional de San Juan",
+        "location": "San Juan, Argentina",
+        "period": "March 2007 - December 2010",
+        "notes": [
+          "Completed two full years of the degree program.",
+          "Strong foundation in mathematics, logic and scientific principles.",
+          "Changed career due to relocation to Buenos Aires."
+        ]
+      },
+      {
+        "year": "2012",
+        "title": "Computer Engineering",
+        "org": "University of Buenos Aires",
+        "location": "Buenos Aires, Argentina",
+        "period": "March 2011 - June 2017",
+        "notes": [
+          "22 subjects completed (approximately two and a half years of the program).",
+          "Training in programming, data structures, algorithms and systems."
+        ]
+      },
+      {
+        "year": "2026",
+        "title": "Software Analyst (in progress)",
+        "org": "ORT University",
+        "location": "Buenos Aires, Argentina",
+        "period": "In progress",
+        "notes": [
+          "Technical degree focused on software development.",
+          "3 subjects remaining to complete the degree.",
+          "Training in programming, databases, software engineering and system architecture."
+        ]
+      },
+      {
+        "year": "2022",
+        "title": "Intensive English courses",
+        "org": "ICANA",
+        "location": "Buenos Aires, Argentina",
+        "period": "January - February 2022",
+        "notes": [
+          "Two intensive courses up to intermediate level.",
+          "Reading comprehension and technical communication in English.",
+          "Certificates available."
+        ]
+      },
+      {
+        "year": "2022 - 2023",
+        "title": "UX Career",
+        "org": "Coderhouse",
+        "location": "Buenos Aires, Argentina",
+        "period": "July 2022 - Present",
+        "notes": [
+          "UX/UI Design, prototyping, research and information architecture.",
+          "Use of tools such as Illustrator, Photoshop, Adobe XD and Figma.",
+          "Certificates available."
+        ]
+      },
+      {
+        "year": "2023 - 2026",
+        "title": "Software Analyst Degree",
+        "org": "ORT",
+        "location": "Buenos Aires, Argentina",
+        "period": "July 2023 - Present",
+        "notes": [
+          "Intensive two-year technical degree focused on software development.",
+          "Practical training in programming, databases, software engineering and system architecture.",
+          "Strong emphasis on application development, system analysis and best programming practices.",
+          "Three subjects remaining to complete the degree, expected to finish during the current term."
+        ]
+      }
+    ]
+  },
+
+  "actions": {
+    "downloadPdf": "Download PDF",
+    "language": "Language"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "header": {
+    "name": "Diego Peyrano",
+    "role": "Analista de Software"
+  },
+
+  "sections": {
+    "summary": "Resumen",
+    "experience": "Experiencia",
+    "skills": "Habilidades",
+    "education": "Educación",
+    "contact": "Contacto"
+  },
+
+  "summary": {
+    "p1": "Soy Analista de Software con experiencia en el desarrollo de aplicaciones web y móviles, con foco en seguridad, autenticación y soluciones basadas en biometría.",
+    "p2": "Cuento con una formación técnica sólida y experiencia práctica en distintos lenguajes y tecnologías, lo que me permite adaptarme con rapidez a nuevos entornos, frameworks y lenguajes de programación.",
+    "p3": "Trabajo con un enfoque orientado a las buenas prácticas de desarrollo, la arquitectura modular, la escalabilidad de los sistemas, la integración continua (CI/CD) y la experiencia de usuario.",
+    "p4": "A partir de mi recorrido académico y profesional, tengo la capacidad de diseñar, implementar y mantener soluciones en distintos lenguajes y paradigmas de programación, incorporando nuevas tecnologías y ecosistemas de manera eficiente."
+  },
+
+  "experience": {
+    "items": [
+      {
+        "title": "TÉCNICO EN INFORMÁTICA",
+        "company": "Service Sur",
+        "location": "Buenos Aires, Argentina",
+        "period": "2009 - 2017",
+        "bullets": [
+          "Mantenimiento y reparación de equipos informáticos.",
+          "Diagnóstico y resolución de problemas de hardware y software.",
+          "Soporte técnico a clientes particulares y empresas."
+        ]
+      },
+      {
+        "title": "DESARROLLADOR Y VENTAS",
+        "company": "Accesorios Sur (Automotriz)",
+        "location": "Buenos Aires, Argentina",
+        "period": "Marzo 2011 - Junio 2017",
+        "bullets": [
+          "Desarrollo de sitio web para la venta de accesorios automotrices.",
+          "Venta de equipos de iluminación y repuestos.",
+          "Administración de cartera de clientes.",
+          "Soporte técnico y gestión comercial."
+        ]
+      },
+      {
+        "title": "DESARROLLADOR DE SOFTWARE",
+        "company": "CETEK - Facultad de Ingeniería (UBA)",
+        "location": "Buenos Aires, Argentina",
+        "period": "Julio 2017 - Septiembre 2019",
+        "bullets": [
+          "Desarrollo de sistemas vinculados al entorno educativo.",
+          "Implementación de herramientas de Learning Analytics.",
+          "Desarrollo de aplicaciones para la gestión académica.",
+          "Trabajo con bases de datos y procesamiento de información educativa.",
+          "Participación en proyectos con TensorFlow y soluciones basadas en datos."
+        ]
+      },
+      {
+        "title": "DESARROLLADOR FULLSTACK / ANALISTA / LÍDER TÉCNICO",
+        "company": "NCR",
+        "location": "Buenos Aires, Argentina",
+        "period": "Septiembre 2019 - Actualidad",
+        "bullets": [
+          "Desarrollo FullStack y análisis de sistemas en proyectos corporativos.",
+          "Rol actual como Líder Técnico y Consultor.",
+          "Uso de tecnologías como JavaScript, TypeScript, React, Angular, RxJS, Python, Django, Node.js y NestJS.",
+          "Desarrollo con frameworks propios de la empresa y frameworks desarrollados por el propio autor.",
+          "Implementación de pruebas automáticas con Cypress.",
+          "Trabajo con sistemas de almacenamiento y backend.",
+          "Integración con hardware y sistemas ATM.",
+          "Aplicación de arquitecturas modernas como arquitectura hexagonal y principios SOLID."
+        ]
+      }
+    ]
+  },
+
+  "skills": {
+    "languagesTitle": "Lenguajes",
+    "paradigmsTitle": "Paradigmas",
+    "patternsTitle": "Patrones y Principios",
+    "toolsTitle": "Herramientas y Tecnologías",
+    "dataTitle": "Datos y Análisis",
+
+    "languages": "C, C++, Java, Smalltalk, Python, JavaScript, TypeScript, .Net, Go",
+    "paradigms": "Programación estructurada, Programación Orientada a Objetos (POO), Programación funcional, Arquitectura hexagonal, MVC",
+    "patterns": "Patrones de diseño, principios SOLID, prototipado, buenas prácticas de ingeniería de software",
+    "tools": "React, Angular, Node.js, NestJS, RxJS, Firebase, Kubernetes, Docker, PostgreSQL, MongoDB, Azure, Git, Linux, Jira, Trello, metodologías ágiles (Scrum, Kanban, XP)",
+    "data": "DataFrames, visualización de datos, Big Data, Machine Learning, Web Scraping"
+  },
+
+  "education": {
+    "items": [
+      {
+        "year": "2007",
+        "title": "Bioingeniería",
+        "org": "Universidad Nacional de San Juan",
+        "location": "San Juan, Argentina",
+        "period": "Marzo 2007 - Diciembre 2010",
+        "notes": [
+          "Se cursaron dos años completos de la carrera.",
+          "Formación sólida en matemáticas, lógica y bases científicas.",
+          "Cambio de carrera por mudanza a la Ciudad de Buenos Aires."
+        ]
+      },
+      {
+        "year": "2012",
+        "title": "Ingeniería Informática",
+        "org": "Universidad de Buenos Aires",
+        "location": "Buenos Aires, Argentina",
+        "period": "Marzo 2011 - Junio 2017",
+        "notes": [
+          "22 materias aprobadas (aproximadamente dos años y medio de la carrera).",
+          "Formación en programación, estructuras de datos, algoritmos y sistemas."
+        ]
+      },
+      {
+        "year": "2026",
+        "title": "Analista en Software (en curso)",
+        "org": "Universidad ORT",
+        "location": "Buenos Aires, Argentina",
+        "period": "En curso",
+        "notes": [
+          "Carrera terciaria orientada al desarrollo de software.",
+          "Restan 3 materias para obtener el título.",
+          "Formación en programación, bases de datos, ingeniería de software y arquitectura de sistemas."
+        ]
+      },
+      {
+        "year": "2022",
+        "title": "Cursos intensivos de inglés",
+        "org": "ICANA",
+        "location": "Buenos Aires, Argentina",
+        "period": "Enero - Febrero 2022",
+        "notes": [
+          "Dos cursos intensivos hasta nivel intermedio.",
+          "Comprensión lectora y comunicación técnica en inglés.",
+          "Certificaciones disponibles."
+        ]
+      },
+      {
+        "year": "2022 - 2023",
+        "title": "Carrera UX",
+        "org": "Coderhouse",
+        "location": "Buenos Aires, Argentina",
+        "period": "Julio 2022 - Presente",
+        "notes": [
+          "UX/UI Design, prototipado, research y arquitectura de la información.",
+          "Uso de herramientas como Illustrator, Photoshop, Adobe XD y Figma.",
+          "Certificaciones disponibles."
+        ]
+      },
+      {
+        "year": "2023 - 2026",
+        "title": "Carrera de Analista de Software",
+        "org": "ORT",
+        "location": "Buenos Aires, Argentina",
+        "period": "Julio 2023 - Presente",
+        "notes": [
+          "Carrera terciaria intensiva de 2 años orientada al desarrollo de software.",
+          "Formación práctica en programación, bases de datos, ingeniería de software y arquitectura de sistemas.",
+          "Enfoque en desarrollo de aplicaciones, análisis de sistemas y buenas prácticas de programación.",
+          "Restan 3 materias para finalizar la carrera, con finalización prevista para el presente cuatrimestre."
+        ]
+      }
+    ]
+  },
+
+  "actions": {
+    "downloadPdf": "Descargar PDF",
+    "language": "Idioma"
+  }
+}
