@@ -4,7 +4,6 @@ import { useTranslation } from 'react-i18next'
 import LinkedInIcon from '@mui/icons-material/LinkedIn'
 import EmailIcon from '@mui/icons-material/Email'
 import GitHubIcon from '@mui/icons-material/GitHub'
-import DownloadIcon from '@mui/icons-material/Download'
 
 const Contact = () => {
   const { t } = useTranslation()
@@ -61,15 +60,7 @@ const Contact = () => {
               diegolanus89@gmail.com
             </Button>
 
-            {/* Descargar CV (si después ponés el PDF) */}
-            <Button
-              variant="text"
-              startIcon={<DownloadIcon />}
-              href="/cv.pdf"
-              target="_blank"
-            >
-              {t('actions.downloadPdf')}
-            </Button>
+            
           </Box>
         </CardContent>
       </Card>
