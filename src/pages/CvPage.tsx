@@ -32,8 +32,8 @@ import Education from "../components/Education";
 import Contact from "../components/Contact";
 import ContactPdf from "../components/ContactPdf";
 import LanguageSwitcher from "../components/LenguageSwitcher";
-
-import { PdfController } from "../controllers/PdfController";
+import { PdfAgentController } from "../controllers/PdfAgentController";
+//import { PdfController } from "../controllers/PdfController";
 
 const scrollToId = (id: string) => {
   const el = document.getElementById(id);
@@ -63,7 +63,8 @@ const CvPage = () => {
 
   const handleDownloadPdf = async () => {
     if (!cvRef.current) return;
-    await PdfController.export(cvRef.current, "Diego_Peyrano_CV.pdf");
+    //await PdfController.export(cvRef.current, "Diego_Peyrano_CV.pdf");
+    await PdfAgentController.export();
   };
 
   return (

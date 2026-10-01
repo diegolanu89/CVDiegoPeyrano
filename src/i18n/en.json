@@ -1,22 +1,22 @@
 {
   "header": {
     "name": "Diego Peyrano",
-    "role": "Software Analyst"
+    "role": "Technical Lead | Software Engineer | Software Architecture"
   },
 
   "sections": {
-    "summary": "Summary",
-    "experience": "Experience",
-    "skills": "Skills",
+    "summary": "Professional Profile",
+    "experience": "Professional Experience",
+    "skills": "Technical Skills",
     "education": "Education",
     "contact": "Contact"
   },
 
   "summary": {
-    "p1": "I am a Software Analyst with experience in developing web and mobile applications, with a strong focus on security, authentication, and biometric-based solutions.",
-    "p2": "I have a solid technical background and hands-on experience with multiple programming languages and technologies, which allows me to quickly adapt to new environments, frameworks, and programming languages.",
-    "p3": "I work with an approach oriented toward best development practices, modular architecture, system scalability, continuous integration (CI/CD), and user experience.",
-    "p4": "Through my academic and professional background, I am able to design, implement, and maintain solutions using different programming languages and paradigms, efficiently incorporating new technologies and ecosystems."
+    "p1": "Systems Analyst graduated from ORT Argentina, Software Engineer and Technical Lead with 9+ years of experience in software development, systems analysis and building solutions for enterprise environments.",
+    "p2": "I have hands-on experience across multiple programming languages, paradigms and technology ecosystems, ranging from C, C++, Java and Smalltalk to Python, C#, JavaScript, TypeScript and Go. This broad foundation allows me to quickly adapt to new languages, frameworks and tools, selecting technologies based on the problem rather than being limited to a specific stack.",
+    "p3": "I am currently deepening my focus on software architecture and system design, with particular interest in maintainable and scalable systems, Hexagonal Architecture, modular design, design patterns, SOLID principles, system integration and technical decisions that support long-term software evolution.",
+    "p4": "My current work includes technologies such as .NET, C#, Angular, TypeScript and SQL, while maintaining experience across other ecosystems including React, Node.js, NestJS, Python and Django. I also incorporate modern development, automation and AI-assisted tools into my workflow for analysis, implementation, problem-solving and continuous improvement."
   },
 
   "experience": {
@@ -27,136 +27,235 @@
         "location": "Buenos Aires, Argentina",
         "period": "2009 - 2017",
         "bullets": [
-          "Maintenance and repair of computer equipment.",
-          "Hardware and software troubleshooting.",
-          "Technical support for individual and corporate clients."
+          "Maintained, diagnosed and repaired computer hardware and systems.",
+          "Resolved hardware, software and operating system issues.",
+          "Provided technical support for individual and corporate clients.",
+          "Advised clients on computer equipment, configuration and technical solutions."
         ]
       },
+
       {
-        "title": "DEVELOPER AND SALES",
+        "title": "WEB DEVELOPER & TECHNICAL SALES",
         "company": "Accesorios Sur (Automotive)",
         "location": "Buenos Aires, Argentina",
         "period": "March 2011 - June 2017",
         "bullets": [
-          "Development of a website for automotive accessories sales.",
-          "Sale of lighting equipment and spare parts.",
-          "Customer portfolio management.",
-          "Technical support and commercial management."
+          "Designed and developed a website supporting the sale of automotive accessories and spare parts.",
+          "Combined web development responsibilities with technical support and commercial operations.",
+          "Managed and maintained customer relationships.",
+          "Provided technical guidance on electronic products and solutions for the automotive sector."
         ]
       },
+
       {
         "title": "SOFTWARE DEVELOPER",
         "company": "CETEK - Faculty of Engineering (UBA)",
         "location": "Buenos Aires, Argentina",
         "period": "July 2017 - September 2019",
         "bullets": [
-          "Development of systems related to the educational environment.",
-          "Implementation of Learning Analytics tools.",
-          "Academic management application development.",
-          "Work with databases and educational data processing.",
-          "Participation in projects using TensorFlow and data-driven solutions."
+          "Developed software applications and solutions for educational environments.",
+          "Designed and implemented Learning Analytics tools and academic data-processing workflows.",
+          "Developed applications for educational management and data analysis.",
+          "Worked with databases, data processing, analysis and visualization.",
+          "Participated in Machine Learning and data-driven initiatives using technologies including TensorFlow.",
+          "Contributed to software analysis, design and implementation from requirements gathering through development."
         ]
       },
+
       {
-        "title": "FULLSTACK DEVELOPER / ANALYST / TECH LEAD",
+        "title": "TECHNICAL LEAD | FULL-STACK SOFTWARE ENGINEER",
         "company": "NCR",
         "location": "Buenos Aires, Argentina",
         "period": "September 2019 - Present",
         "bullets": [
-          "FullStack development and systems analysis in corporate projects.",
-          "Current role as Technical Lead and Consultant.",
-          "Use of technologies such as JavaScript, TypeScript, React, Angular, RxJS, Python, Django, Node.js and NestJS.",
-          "Development using both internal company frameworks and self-developed frameworks.",
-          "Implementation of automated testing with Cypress.",
-          "Backend and storage systems development.",
-          "Integration with hardware and ATM systems.",
-          "Application of modern architectures such as Hexagonal Architecture and SOLID principles."
+          "Lead the technical analysis, design and development of software solutions for enterprise environments.",
+          "Contribute to architecture and technical decisions, evaluating technologies and approaches according to the requirements and constraints of each solution.",
+          "Perform full-stack development across different languages, frameworks and technology ecosystems according to project requirements.",
+          "Currently work with C#, .NET, Angular, TypeScript and SQL to develop applications, backend services and integrations.",
+          "Design and develop backend services, APIs, business logic, data persistence and enterprise system integrations.",
+          "Develop web applications and user interfaces using Angular, TypeScript, JavaScript and RxJS.",
+          "Apply Hexagonal Architecture, SOLID principles, design patterns and modular architecture to improve software maintainability and long-term evolution.",
+          "Integrate software applications with hardware devices, ATM systems and services within complex enterprise environments.",
+          "Implement automated end-to-end testing with Cypress and contribute to continuous integration and delivery processes.",
+          "Maintain additional hands-on experience with React, Node.js, NestJS, Python and Django, as well as previous experience across multiple programming languages and paradigms.",
+          "Use modern development, automation and AI-assisted tools as part of the workflow for analysis, implementation, debugging, documentation and problem-solving.",
+          "Provide technical guidance, requirements analysis and engineering support throughout the software development lifecycle."
         ]
       }
     ]
   },
 
   "skills": {
-    "languagesTitle": "Languages",
-    "paradigmsTitle": "Paradigms",
-    "patternsTitle": "Patterns and Principles",
-    "toolsTitle": "Tools and Technologies",
-    "dataTitle": "Data and Analytics",
+    "categories": [
+      {
+        "id": "languages",
+        "title": "Programming Languages",
+        "items": [
+          "C#",
+          "TypeScript",
+          "JavaScript",
+          "Python",
+          "Java",
+          "C",
+          "C++",
+          "Go",
+          "Smalltalk"
+        ]
+      },
 
-    "languages": "C, C++, Java, Smalltalk, Python, JavaScript, TypeScript, .Net, Go",
-    "paradigms": "Structured programming, Object-Oriented Programming (OOP), Functional programming, Hexagonal architecture, MVC",
-    "patterns": "Design patterns, SOLID principles, prototyping, software engineering best practices",
-    "tools": "React, Angular, Node.js, NestJS, RxJS, Firebase, Kubernetes, Docker, PostgreSQL, MongoDB, Azure, Git, Linux, Jira, Trello, Agile methodologies (Scrum, Kanban, XP)",
-    "data": "DataFrames, data visualization, Big Data, Machine Learning, Web Scraping"
+      {
+        "id": "architecture",
+        "title": "Software Architecture & Engineering",
+        "items": [
+          "System Design",
+          "Hexagonal Architecture",
+          "SOLID",
+          "Design Patterns",
+          "Modular Architecture",
+          "MVC",
+          "OOP",
+          "Functional Programming",
+          "API Design",
+          "System Integration"
+        ]
+      },
+
+      {
+        "id": "frameworks",
+        "title": "Frameworks & Ecosystems",
+        "items": [
+          ".NET",
+          "ASP.NET Core",
+          "Angular",
+          "RxJS",
+          "React",
+          "Node.js",
+          "NestJS",
+          "Django",
+          "Firebase"
+        ]
+      },
+
+      {
+        "id": "data",
+        "title": "Databases & Data",
+        "items": [
+          "SQL",
+          "SQL Server",
+          "PostgreSQL",
+          "MongoDB",
+          "Data Processing",
+          "DataFrames",
+          "Data Visualization",
+          "Machine Learning",
+          "TensorFlow",
+          "Web Scraping"
+        ]
+      },
+
+      {
+        "id": "engineering",
+        "title": "Engineering Tools & Practices",
+        "items": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Azure",
+          "Linux",
+          "CI/CD",
+          "Cypress",
+          "Automated Testing",
+          "Code Review",
+          "Agile",
+          "Scrum",
+          "Kanban"
+        ]
+      },
+
+      {
+        "id": "modern",
+        "title": "Modern & AI-Assisted Development",
+        "items": [
+          "AI-Assisted Development",
+          "AI Development Tools",
+          "Automation",
+          "Rapid Prototyping",
+          "Technical Research",
+          "AI-Assisted Debugging"
+        ]
+      }
+    ]
   },
 
   "education": {
     "items": [
       {
-        "year": "2007",
-        "title": "Bioengineering",
-        "org": "Universidad Nacional de San Juan",
-        "location": "San Juan, Argentina",
-        "period": "March 2007 - December 2010",
-        "notes": [
-          "Completed two full years of the degree program.",
-          "Strong foundation in mathematics, logic and scientific principles.",
-          "Changed career due to relocation to Buenos Aires."
-        ]
-      },
-      {
-        "year": "2012",
-        "title": "Computer Engineering",
-        "org": "University of Buenos Aires",
+        "year": "2026",
+        "title": "Systems Analyst",
+        "org": "ORT Argentina - Institute of Higher Technical Education",
         "location": "Buenos Aires, Argentina",
-        "period": "March 2011 - June 2017",
+        "period": "July 2023 - 2026",
         "notes": [
-          "22 subjects completed (approximately two and a half years of the program).",
-          "Training in programming, data structures, algorithms and systems."
+          "Official higher-education technical degree focused on software systems analysis, design and development.",
+          "Coursework included programming, databases, computer architecture and operating systems, systems analysis, software security and quality assurance.",
+          "Developed integrated software projects applying engineering methodologies, tools and software development best practices."
         ]
       },
+
+      {
+        "year": "2022 - 2023",
+        "title": "UX/UI Design Program",
+        "org": "Coderhouse",
+        "location": "Buenos Aires, Argentina",
+        "period": "July 2022 - 2023",
+        "notes": [
+          "Training in UX/UI design, prototyping, user research and information architecture.",
+          "Hands-on experience with Figma, Adobe XD, Illustrator and Photoshop.",
+          "Certificates available."
+        ]
+      },
+
       {
         "year": "2022",
-        "title": "Intensive English courses",
+        "title": "Intensive English Courses",
         "org": "ICANA",
         "location": "Buenos Aires, Argentina",
         "period": "January - February 2022",
         "notes": [
-          "Two intensive courses up to intermediate level.",
-          "Reading comprehension and technical communication in English.",
+          "Intensive English training up to intermediate level.",
+          "Reading comprehension, communication and technical English for professional environments.",
           "Certificates available."
         ]
       },
+
       {
-        "year": "2022 - 2023",
-        "title": "UX Career",
-        "org": "Coderhouse",
+        "year": "2011 - 2017",
+        "title": "Computer Engineering Studies",
+        "org": "University of Buenos Aires",
         "location": "Buenos Aires, Argentina",
-        "period": "July 2022 - Present",
+        "period": "March 2011 - June 2017",
         "notes": [
-          "UX/UI Design, prototyping, research and information architecture.",
-          "Use of tools such as Illustrator, Photoshop, Adobe XD and Figma.",
-          "Certificates available."
+          "Completed 22 courses in the Computer Engineering program.",
+          "Academic foundation in programming, algorithms, data structures, mathematics and computer systems."
         ]
       },
+
       {
-        "year": "2023 - 2026",
-        "title": "Software Analyst Degree",
-        "org": "ORT",
-        "location": "Buenos Aires, Argentina",
-        "period": "July 2023 - Present",
+        "year": "2007 - 2010",
+        "title": "Bioengineering Studies",
+        "org": "Universidad Nacional de San Juan",
+        "location": "San Juan, Argentina",
+        "period": "March 2007 - December 2010",
         "notes": [
-          "Intensive two-year technical degree focused on software development.",
-          "Practical training in programming, databases, software engineering and system architecture.",
-          "Strong emphasis on application development, system analysis and best programming practices.",
-          "Three subjects remaining to complete the degree, expected to finish during the current term."
+          "Completed two years of university-level coursework.",
+          "Academic foundation in mathematics, logic, physics and analytical problem-solving."
         ]
       }
     ]
   },
 
   "actions": {
-    "downloadPdf": "Download PDF",
+    "downloadPdf": "Download Resume",
     "language": "Language"
   }
 }
